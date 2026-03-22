@@ -1,5 +1,5 @@
-# TCP/IP Packet Analyzer
-**NTU EEE Year 2 — Computer Networks Project**
+TCP/IP Packet Analyzer
+EEE Year 2 — Computer Networks Project
 
 A Python tool that captures live network traffic (or reads `.pcap` files),
 decodes Ethernet / IP / TCP / UDP headers layer-by-layer, logs statistics
